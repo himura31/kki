@@ -1,0 +1,274 @@
+[12-Feb-2017 10:29:05 UTC] PHP Warning:  POST Content-Length of 12153245 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Feb-2017 12:03:48 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:03:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:04:33 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:04:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:05:18 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:07:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:07:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:07:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:07:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:07:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:07:07 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:07:07 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:08:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:08:13 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[28-Feb-2017 12:09:21 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/system/core/Model.php on line 111
+[06-Mar-2017 14:18:05 Asia/Jakarta] PHP Fatal error:  Call to a member function encode() on a non-object in /home/doscol/public_html/application/controllers/Api.php on line 228
+[08-Mar-2017 20:27:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[08-Mar-2017 20:27:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[08-Mar-2017 20:28:07 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[08-Mar-2017 20:28:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[08-Mar-2017 20:28:19 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[08-Mar-2017 20:28:24 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[08-Mar-2017 20:28:33 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[08-Mar-2017 20:28:38 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 991
+[09-Mar-2017 05:10:49 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[09-Mar-2017 12:09:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[09-Mar-2017 12:10:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[09-Mar-2017 12:10:09 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[09-Mar-2017 12:10:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[09-Mar-2017 12:10:20 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[09-Mar-2017 12:10:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[09-Mar-2017 12:10:32 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[09-Mar-2017 12:10:39 Asia/Jakarta] PHP Fatal error:  Call to undefined method MainModel::setSaran() in /home/doscol/public_html/application/controllers/Api.php on line 994
+[14-Mar-2017 14:26:59 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[15-Mar-2017 10:02:11 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 1098
+[15-Mar-2017 10:02:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 1098
+[15-Mar-2017 10:02:34 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 1098
+[16-Mar-2017 06:29:57 UTC] PHP Warning:  POST Content-Length of 8856552 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Mar-2017 06:30:33 UTC] PHP Warning:  POST Content-Length of 8856544 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Apr-2017 07:10:23 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:02:22 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:02:37 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:04:04 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:07:32 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:12:50 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:48:56 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:49:07 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:49:13 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:50:51 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 08:52:12 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 09:05:23 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 09:07:23 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 10:08:39 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 10:08:52 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 10:37:20 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 10:46:16 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 10:51:02 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 10:52:35 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 10:52:47 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:02:02 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:03:11 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:06:55 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:08:05 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:08:40 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:11:00 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:14:30 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:15:05 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:15:45 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:16:08 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:16:15 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:16:50 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:17:25 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:21:31 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:22:41 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:35:31 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:39:38 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:45:16 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[07-Apr-2017 11:51:55 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[20-May-2017 02:56:09 UTC] PHP Warning:  POST Content-Length of 106598106 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Jun-2017 05:30:03 UTC] PHP Warning:  POST Content-Length of 12941166 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Jun-2017 04:28:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/doscol/public_html/application/controllers/Api.php on line 452
+[07-Jun-2017 04:43:14 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/doscol/public_html/application/controllers/Api.php on line 452
+[07-Jun-2017 04:43:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/doscol/public_html/application/controllers/Api.php on line 452
+[11-Jun-2017 16:01:53 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 01:07:46 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:25:52 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:27:30 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:28:47 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:30:55 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:34:32 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:44:09 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:52:51 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 13:53:57 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 14:24:12 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[16-Jun-2017 14:40:36 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[10-Jul-2017 13:59:57 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[11-Jul-2017 06:25:59 UTC] PHP Warning:  POST Content-Length of 24847398 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Jul-2017 06:26:09 UTC] PHP Warning:  POST Content-Length of 24847398 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Jul-2017 06:27:57 UTC] PHP Warning:  POST Content-Length of 24847398 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Jul-2017 06:30:23 UTC] PHP Warning:  POST Content-Length of 24847398 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Jul-2017 06:32:06 UTC] PHP Warning:  POST Content-Length of 24847398 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Jul-2017 01:54:53 UTC] PHP Warning:  POST Content-Length of 9050112 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Jul-2017 09:17:44 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[13-Jul-2017 14:42:16 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[13-Jul-2017 14:42:27 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[13-Jul-2017 14:42:59 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[13-Jul-2017 14:45:15 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[13-Jul-2017 14:45:31 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[13-Jul-2017 14:45:38 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[13-Jul-2017 14:45:42 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:18:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:18:36 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:19:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:19:37 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:20:08 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:21:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:21:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:25:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:27:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:28:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:28:27 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:31:26 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:36:57 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:43:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:44:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:45:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:47:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:48:31 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:48:57 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[19-Jul-2017 14:55:15 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[24-Jul-2017 08:31:31 UTC] PHP Warning:  POST Content-Length of 25498215 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[24-Jul-2017 08:38:19 UTC] PHP Warning:  POST Content-Length of 25498215 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Jul-2017 06:39:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 724
+[25-Jul-2017 01:34:20 UTC] PHP Warning:  POST Content-Length of 51063149 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[01-Aug-2017 14:13:35 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[01-Aug-2017 14:14:24 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[01-Aug-2017 14:14:26 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[01-Aug-2017 14:14:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[01-Aug-2017 14:14:40 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[01-Aug-2017 14:14:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[01-Aug-2017 14:15:50 Asia/Jakarta] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/doscol/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 391
+[01-Aug-2017 14:16:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[01-Aug-2017 14:16:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 46
+[07-Aug-2017 00:30:37 UTC] PHP Warning:  POST Content-Length of 25498294 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Aug-2017 00:37:32 UTC] PHP Warning:  POST Content-Length of 22148300 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Aug-2017 01:32:38 UTC] PHP Warning:  POST Content-Length of 26141619 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Aug-2017 01:35:03 UTC] PHP Warning:  POST Content-Length of 26141510 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Aug-2017 13:26:59 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 221
+[05-Sep-2017 09:51:23 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 283
+[20-Sep-2017 07:52:58 UTC] PHP Warning:  POST Content-Length of 97739328 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2017 07:56:13 UTC] PHP Warning:  POST Content-Length of 97739328 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2017 08:34:10 UTC] PHP Warning:  POST Content-Length of 97739438 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2017 08:57:53 UTC] PHP Warning:  POST Content-Length of 97739438 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2017 09:02:53 UTC] PHP Warning:  POST Content-Length of 97739430 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2017 09:04:42 UTC] PHP Warning:  POST Content-Length of 97739430 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2017 09:09:34 UTC] PHP Warning:  POST Content-Length of 97739422 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Sep-2017 09:11:06 UTC] PHP Warning:  POST Content-Length of 97739422 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Sep-2017 11:16:49 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 11:17:06 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 11:17:12 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 11:17:24 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 11:17:28 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 12:33:39 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 12:33:43 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 13:03:46 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 20:28:18 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 20:28:26 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 20:28:29 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 20:28:30 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 20:28:55 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[25-Sep-2017 21:51:01 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[26-Sep-2017 10:17:33 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[26-Sep-2017 10:18:19 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 13:27:51 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 13:28:17 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 13:28:32 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 13:28:51 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 13:29:26 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 15:20:01 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 15:20:37 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 15:20:55 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 15:25:16 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 15:27:50 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 15:30:22 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[27-Sep-2017 15:30:46 Asia/Jakarta] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 284
+[02-Oct-2017 08:34:38 UTC] PHP Warning:  POST Content-Length of 9406852 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Oct-2017 23:55:30 UTC] PHP Warning:  POST Content-Length of 8843503 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Oct-2017 23:59:24 UTC] PHP Warning:  POST Content-Length of 8843297 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Oct-2017 04:53:12 UTC] PHP Warning:  POST Content-Length of 8843836 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Oct-2017 04:57:20 UTC] PHP Warning:  POST Content-Length of 8843862 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Oct-2017 04:59:06 UTC] PHP Warning:  POST Content-Length of 10150497 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Oct-2017 02:02:15 UTC] PHP Warning:  POST Content-Length of 10567024 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[25-Oct-2017 03:41:26 UTC] PHP Warning:  POST Content-Length of 10567056 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Oct-2017 09:24:45 UTC] PHP Warning:  POST Content-Length of 46632026 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Oct-2017 09:26:30 UTC] PHP Warning:  POST Content-Length of 46632026 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Oct-2017 09:31:18 UTC] PHP Warning:  POST Content-Length of 46632026 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-Nov-2017 06:23:49 UTC] PHP Warning:  POST Content-Length of 28698914 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Nov-2017 07:45:18 UTC] PHP Warning:  POST Content-Length of 9050136 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Nov-2017 08:41:02 UTC] PHP Warning:  POST Content-Length of 10567040 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Nov-2017 08:42:45 UTC] PHP Warning:  POST Content-Length of 10567040 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 00:18:13 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 00:18:35 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 06:12:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 06:13:02 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 09:59:12 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 10:38:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 10:38:49 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 11:42:25 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 11:49:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 11:52:45 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 13:51:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 15:33:38 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 15:34:54 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 15:39:19 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 16:15:35 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 16:16:45 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 22:05:24 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[27-Nov-2017 22:07:29 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 10:10:10 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 11:07:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 11:08:16 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 11:09:06 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 11:35:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 13:27:35 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 13:36:50 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 13:38:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 14:37:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[28-Nov-2017 16:27:48 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 09:01:32 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 09:02:56 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 09:03:38 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 09:13:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 11:29:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 11:35:15 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 12:26:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:26:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:29:12 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:30:44 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:31:55 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:32:59 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:33:42 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:34:24 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:35:18 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 13:36:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:01:01 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:01:12 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:02:48 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:03:09 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:03:23 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:04:41 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:18:05 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[29-Nov-2017 16:53:46 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[30-Nov-2017 09:07:04 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[30-Nov-2017 09:08:31 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[30-Nov-2017 09:09:52 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[30-Nov-2017 11:20:20 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[30-Nov-2017 12:45:14 Asia/Jakarta] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/doscol/public_html/application/models/MainModel.php on line 886
+[08-Dec-2017 06:39:40 UTC] PHP Warning:  POST Content-Length of 11360352 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Dec-2017 06:41:56 UTC] PHP Warning:  POST Content-Length of 11360360 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Dec-2017 06:45:30 UTC] PHP Warning:  POST Content-Length of 11360368 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Dec-2017 07:42:59 UTC] PHP Warning:  POST Content-Length of 27578743 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 03:53:06 UTC] PHP Warning:  POST Content-Length of 9307021 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Dec-2017 22:44:11 UTC] PHP Warning:  POST Content-Length of 34441627 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 06:09:34 UTC] PHP Warning:  POST Content-Length of 21471318 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 06:14:04 UTC] PHP Warning:  POST Content-Length of 21471318 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Jan-2018 10:11:42 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 350
+[04-Jan-2018 10:13:25 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 350
+[04-Jan-2018 10:13:43 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 369
+[04-Jan-2018 10:14:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 305
+[04-Jan-2018 10:14:04 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 305
+[04-Jan-2018 10:14:05 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 305
+[04-Jan-2018 10:15:03 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 305
+[04-Jan-2018 10:15:40 Asia/Jakarta] PHP Fatal error:  Call to undefined function array_flatten() in /home/doscol/public_html/application/controllers/Api.php on line 305

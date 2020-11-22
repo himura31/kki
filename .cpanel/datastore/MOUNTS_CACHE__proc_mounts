@@ -1,0 +1,9 @@
+rootfs / rootfs rw 0 0
+proc /proc proc rw,relatime 0 0
+sysfs /sys sysfs rw,relatime 0 0
+devtmpfs /dev devtmpfs rw,relatime,size=8001484k,nr_inodes=2000371,mode=755 0 0
+devpts /dev/pts devpts rw,relatime,gid=5,mode=620,ptmxmode=000 0 0
+tmpfs /dev/shm tmpfs rw,relatime 0 0
+/dev/xvda1 / ext4 rw,relatime,errors=remount-ro,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
+none /proc/sys/fs/binfmt_misc binfmt_misc rw,relatime 0 0
+/dev/xvda1 /var/tmp ext4 rw,relatime,errors=remount-ro,data=ordered,jqfmt=vfsv0,usrjquota=quota.user 0 0
